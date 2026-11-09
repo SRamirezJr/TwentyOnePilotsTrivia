@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    max-width: 600px;
+    margin: 40px auto;
+    background-color:#000000;
+    color: #FFFFFF;
+}
+
+.question {
+    background-color: #7A1414;
+    padding: 15px;
+    cursor: pointer;
+    border: 1px solid #ccc;
+}
+
+.answer {
+    padding: 15px;
+    background-color: #7A1414;
+}
